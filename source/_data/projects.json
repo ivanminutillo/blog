@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Agent",
+        "url": "https://agent.fair.coop",
+        "desc": "A powerful way to collaborate together, decentralized"
+    },
+    {
+        "name": "Cooperative kit",
+        "url": "https://kit.opencoopecosystem.net",
+        "desc": "A component library thoguht for the cooperative environment"
+    }
+]

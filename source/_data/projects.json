@@ -1,12 +1,12 @@
 [
     {
         "name": "Agent",
-        "url": "https://agent.fair.coop",
-        "desc": "A powerful way to collaborate together, decentralized"
+        "url": "https://github.com/ivanminutillo/agent",
+        "desc": "A (wannabe) federated value network"
     },
     {
         "name": "Cooperative kit",
         "url": "https://kit.opencoopecosystem.net",
-        "desc": "A component library thoguht for the cooperative environment"
+        "desc": "A react component library"
     }
 ]

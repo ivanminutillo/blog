@@ -1,5 +1,9 @@
 ---
 title: About Agent and OCE
+date: 2018-06-30
+tags:
+    - Agent
+    - OCE
 ---
 
 ***Agent*** is free / open source software which as part of the *Open Cooperative Ecosystem*, empowers the creation of an ecosystem made up of relationships and economic events, with the aim of allowing the flow of resources between fractal networks of people and groups.
